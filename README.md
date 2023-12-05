@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">Frontend developer from Ukraine</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
